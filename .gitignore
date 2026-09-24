@@ -1,0 +1,16 @@
+# Restricted data and derived datasets
+*.xlsx
+*.xls
+*.csv
+
+# Model artefacts and generated outputs
+frozen_models/
+outputs/
+figures/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
