@@ -16,7 +16,7 @@ The analysis is organised into three Jupyter notebooks and should be followed in
 
 3. `03_modelling_temporal_evaluation_and_shap.ipynb`  
    Model development and tuning, temporal performance evaluation, distributional-shift analysis, SHAP explanation-stability analysis, and sensitivity analyses.
-
+4. Chapter 4 tables and figures
 ## Data availability
 
 The analysis uses de-identified data from the Norfolk Arthritis Register (NOAR), obtained under a data-sharing arrangement between Brunel University London and the University of East Anglia.
